@@ -20,7 +20,12 @@
       "name": "global1",
       "nodeName": "global1",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "atK6hz"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
@@ -42,7 +47,12 @@
       "name": "global2",
       "nodeName": "global2",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "nORtev"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
